@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as c,x as o}from"./entry.88Ak2XG0.js";const s={},n=o("h1",null,"skewll.com",-1),_=[n];function r(a,l){return c(),t("div",null,_)}const i=e(s,[["render",r]]);export{i as default};
