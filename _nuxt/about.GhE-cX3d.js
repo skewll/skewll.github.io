@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,b as s,F as c,a as e,q as _}from"./entry.GWcvZDs0.js";const r={name:"About"},u=e("div",null,[e("h1",null,"About")],-1);function l(p,d,m,f,i,b){const o=_;return n(),a(c,null,[s(o),u],64)}const $=t(r,[["render",l]]);export{$ as default};

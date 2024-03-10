@@ -1,1 +1,0 @@
-import{_ as e}from"./Nav.lVapW4av.js";import{_ as n,c as a,b as s,F as c,a as o,o as r}from"./entry.DOH859EV.js";import"./nuxt-link.O0B2tOti.js";const _={name:"About"},p=o("div",null,[o("h1",null,"About")],-1);function m(u,l,d,i,f,b){const t=e;return r(),a(c,null,[s(t),p],64)}const B=n(_,[["render",m]]);export{B as default};
